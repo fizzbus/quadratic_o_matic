@@ -24,5 +24,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Added comment to Readme
-
+Changed comment to README
